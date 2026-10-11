@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程作业与论文交付"
+  short_description: "先核对 PDF 与 LMS 要求，再写作并验收提交文件"
+  default_prompt: "使用 $course-assignment-paper，先阅读本次课程作业 PDF、评分标准和 LMS 命名通知，再按要求写作、核对引用并验收最终 PDF。"
